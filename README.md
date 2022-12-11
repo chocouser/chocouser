@@ -9,16 +9,18 @@
     <br>
    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPgmJun%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 <br><br>
-<Strong>📧Email📧</Strong><br>chltmdwns96@gmail.com<br>
+<Strong>📧Email📧</Strong><br>tjdgh5809@naver.com<br>
 
 </p>
 
 <br>
 
 <p align="center">
-반갑습니다👐<br>
-제 이름은 최승준이고 백엔드를 공부하고 있어요!<br>
-현재 대학교에 재학중이며 뭐든 배우려는 자세로 학습에 임하고 있습니다.<br>
+### 👋 안녕하세요 👋 🤞
+<p>
+🤞&nbsp;  데이터베이스를 주로 공부하고 있는 컴공과 최성호라고 합니다. 🚀<br/>
+  현재 DBA를 꿈꾸고 있으며 경험을 쌓기 위해 DB 엔지니어를 준비중에 있습니다. ✨<br/>
+  제가 DBA가 되는 과정을 구경하고 가세요. ⛰ <br/>
 </p>
 
 <br>
