@@ -1,4 +1,4 @@
-### 🤞 Nice way to meet me
+### 🤞 안녕하세요 🤞 
 <p>
 
   <a href="https://www.linkedin.com/in/cowkite/" target="_blank"><img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=#E4405F&logoColor=white"></a>
