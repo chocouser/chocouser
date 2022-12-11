@@ -48,5 +48,5 @@
 
 <div align=center>
 
-![PgmJun's github stats](https://github-readme-stats.vercel.app/api?username=PgmJun&show_icons=true)
+![chocouser's github stats](https://github-readme-stats.vercel.app/api?username=PgmJun&show_icons=true)
 
