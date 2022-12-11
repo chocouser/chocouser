@@ -14,7 +14,7 @@
 <br>
 
 <p align="center">
-👋 안녕하세요 👋<br>
+👋 안녕하세요 👋</br>
 데이터베이스 대하여 열심히 배우고 있는 최성호라고 합니다! 🚀<br>
 현재 DBA를 꿈꾸고 있으며 경험을 쌓기 위해 DB 엔지니어를 준비중에 있습니다. ✨<br>
 </p>
@@ -40,7 +40,7 @@
   
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
   <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=android&logoColor=white"> 
+  <img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=jsp&logoColor=white"> 
     <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
 </p>
 
