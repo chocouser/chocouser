@@ -1,4 +1,4 @@
-### 🤞 안녕하세요 🤞 
+### 👋 안녕하세요 👋 🤞
 <p>
 
   <a href="https://www.linkedin.com/in/cowkite/" target="_blank"><img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=#E4405F&logoColor=white"></a>
@@ -6,12 +6,10 @@
 </p>
 
 <p>
-  👋&nbsp; Hi there! I'm <b>full stack developer</b> skilled in API, WEB, and APP.🚀<br/>
-  I have experience 7 years of Android development and 2 years of iOS development.<br/>
-  For the past year, I have been interested in creating Graph-QL APIs with Quarkus and a web screen with React.<br/>
-  Sometimes I develop cross-platforms mobile app like ReactNative or Flutter. (but prefer native💖)<br/><br/>
-  I enjoy hiking, swimming, dive and surf. ⛰ 🏄<br/>
-  I hope to develop every beautiful things. ✨ <br/><br/>
+  🤞&nbsp;  데이터베이스를 주로 공부하고 있는 컴공과 학생입니다. 🚀<br/>
+  현재 DBA를 꿈꾸고 있으며 경험을 쌓기 위해 DB 엔지니어를 준비중에 있습니다. ✨<br/>
+  제가 DBA가 되는 과정을 구경하고 가세요. ⛰ <br/>
+  I 
 </p>
 
 
