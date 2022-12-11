@@ -2,27 +2,25 @@
 
 <br>
 
+<p align="center">
+    <Strong>☁️SNS & Github☁️</Strong><br><br>
+ 
 
 
 <p align="center">
-    
-    
-    <p align="center">
     <Strong>☁️Portfolio List☁️</Strong><br><br>
-    <a href="https://github.com/chocouser/2022-programming"><img src="https://img.shields.io/badge/Github Projects-000000?style=flat-square&logo=github&logoColor=white"/></a> 
+   <a href="https://www.instagram.com/s_ho_mung" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+     <a href="https://github.com/chocouser/2022-programming"><img src="https://img.shields.io/badge/Github Projects-000000?style=flat-square&logo=github&logoColor=white"/></a>
+    </p>
     <br>
- 
+   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPgmJun%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 <br><br>
-<Strong>📧Email📧</Strong><br>chltmdwns96@gmail.com<br>
-           <a href="https://github.com/chocouser/2022-programming"><img src="https://img.shields.io/badge/Github Projects-000000?style=flat-square&logo=github&logoColor=white"/></a> 
+<Strong>📧Email📧</Strong><br>tjdgh5809@naver.com<br>
 
 </p>
 
 <br>
-
 <p align="center">
-    
-    
 👋 안녕하세요 👋 <br></br>\
 데이터베이스 대하여 열심히 배우고 있는 최성호라고 합니다! 🚀<br>
 현재 DBA를 꿈꾸고 있으며 경험을 쌓기 위해 DB 엔지니어를 준비중에 있습니다. ✨<br>
