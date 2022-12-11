@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-    <Strong>☁️Portfolio List☁️</Strong><br><br>
+    <Strong>☁️SNS & Portfolio List☁️</Strong><br><br>
     <a href="https://www.instagram.com/s_ho_mung" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
      <a href="https://github.com/chocouser/2022-programming"><img src="https://img.shields.io/badge/Github Projects-000000?style=flat-square&logo=github&logoColor=white"/></a> 
     <br>
@@ -14,7 +14,7 @@
 <br>
 
 <p align="center">
-👋 안녕하세요 👋 <br></br>
+👋 안녕하세요 👋 <br></br>\
 데이터베이스 대하여 열심히 배우고 있는 최성호라고 합니다! 🚀<br>
 현재 DBA를 꿈꾸고 있으며 경험을 쌓기 위해 DB 엔지니어를 준비중에 있습니다. ✨<br>
 </p>
