@@ -15,7 +15,7 @@
 
 <p align="center">
 👋 안녕하세요 👋<br>
-데이터베이스  대하여 열심히 배우고 있는 최성호라고 합니다! 🚀<br>
+데이터베이스 대하여 열심히 배우고 있는 최성호라고 합니다! 🚀<br>
 현재 DBA를 꿈꾸고 있으며 경험을 쌓기 위해 DB 엔지니어를 준비중에 있습니다. ✨<br>
 </p>
 
@@ -28,7 +28,7 @@
 
 <p align="center" display="inline-block">
     <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=oracle AWS&logoColor=white">
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=oracle&logoColor=white">
   
 </p><br>
 
