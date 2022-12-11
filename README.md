@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=PgmJun's%20GitHub%20Profile&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=chocouser's%22GitHub%20Profile&descAlignY=51&descAlign=62)
 
 <br>
 
@@ -16,13 +16,12 @@
 <br>
 
 <p align="center">
-### 👋 안녕하세요 👋 🤞
-<br>
-데이터베이스를 주로 공부하고 있는 최성호 라고 합니다. 🚀<br/>
-현재 DBA를 꿈꾸고 있으며 경험을 쌓기 위해 DB 엔지니어를 준비중에 있습니다. ✨.<br>
- 제가 DBA가 되는 과정을 구경하고 가세요. ⛰ 
+### 👋 안녕하세요 👋 
+<p>
+  데이터베이스를 주로 공부하고 있는 컴공과 최성호라고 합니다. 🚀<br/>
+  현재 DBA를 꿈꾸고 있으며 경험을 쌓기 위해 DB 엔지니어를 준비중에 있습니다. ✨<br/>
+  제가 DBA가 되는 과정을 구경하고 가세요. ⛰ <br/>
 </p>
-
 
 <br>
 
