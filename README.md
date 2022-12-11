@@ -22,7 +22,7 @@
 <br>
 
 <p align="center">
-    <Strong>💪 Skills 💪</Strong><br>
+    <Strong>💪 Skills 💪</Strong><br></br>
     💡used as the main
 </p>
 
