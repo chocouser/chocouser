@@ -6,6 +6,7 @@
     <Strong>☁️Portfolio List☁️</Strong><br><br>
     <a href="https://www.instagram.com/s_ho_mung" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
      <a href="https://github.com/chocouser/2022-programming"><img src="https://img.shields.io/badge/Github Projects-000000?style=flat-square&logo=github&logoColor=white"/></a> 
+    <img src="https://img.shields.io/badge/Github Projects-F80000?style=flat-square&logo=oracle&logoColor=white"/></a> 
     <br>
 <br><br>
 <Strong>📧Email📧</Strong><br>tjdgh5809@naver.com<br>
@@ -28,7 +29,7 @@
 
 <p align="center" display="inline-block">
     <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-    <img src="https://img.shields.io/badge/oracle-000000?style=flat-square&logo=oracle&logoColor=white"/></a> 
+     <img src="https://img.shields.io/badge/Github Projects-F80000?style=flat-square&logo=oracle&logoColor=white">
   
 </p><br>
 
