@@ -7,7 +7,7 @@
     <a href="https://pgmjun.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-535D6C?style=flat-square&logo=Tistory&logoColor=white"/></a>
     <a href="https://pgmjun.notion.site/pgmjun/33e788d9f4484f3f84701b5ff92b7f1e" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
     <br>
-   <a href="https://hits.seeyoufarm.com"><img src[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchocouser&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)]</a>
+   
 <br><br>
 <Strong>📧Email📧</Strong><br>chltmdwns96@gmail.com<br>
 
